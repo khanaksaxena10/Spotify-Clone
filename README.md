@@ -1,4 +1,5 @@
 Khanak - A Spotify Clone
+
 Welcome to the Khanak GitHub repository! This project is a Spotify clone inspired by the name "Khanak," which means "The sound of bangles." Just as the sound of bangles evokes rhythm and harmony, this app aims to deliver an engaging audio experience.
 
 Project Overview
